@@ -1,2 +1,2 @@
 # project-3
-this project contains a lot of typos...
+check the pdf it tells you how to run the codes. I'm too lazy to say it again here. cheers.
